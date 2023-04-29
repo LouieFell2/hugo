@@ -119,7 +119,7 @@ params:
     enable: true
     intro: ""
     title: "Hello, I'm
-      <br>
+    <br>
     Louie - Fell."
     subtitle: ""
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
